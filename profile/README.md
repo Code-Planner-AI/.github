@@ -24,9 +24,6 @@ Jumpstart any task with AI-generated implementation blueprints - no more staring
 - **Deep context awareness**  
 Our system analyzes your existing architecture, dependencies, and patterns to create codebase-specific plans - no more code snippet juggling or manual context sharing
 
-- **Accelerates problem-solving velocity**  
-Transform vague requirements into structured action plans within seconds, maintaining flow state and developer momentum
-
 - **Creates self-documenting workflows**  
 Automatically generated plans become living documentation for architectural decisions and team knowledge sharing
 
