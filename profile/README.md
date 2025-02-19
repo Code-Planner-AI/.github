@@ -38,7 +38,7 @@ To install Code Planner AI in your GitHub repository:
 
 ## 📬 Feedback & Support
 Have suggestions or issues? We'd love to hear from you!
-- Open an issue in our repo
+- Open an [issue](https://github.com/Code-Planner-AI/issue-tracker/issues)
 - Fill out our [Google Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSeRw94saT95oVoFZBThf61tOL13QQYNa28rDRx4oamCeHxwGg/viewform?usp=sharing) *(coming soon!)*
 
 ---
