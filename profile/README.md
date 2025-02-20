@@ -1,6 +1,8 @@
 # Code Planner AI
 
-Welcome to **Code Planner AI**, the intelligent assistant for developers! Our GitHub App helps automate and streamline the software development process by generating AI-powered implementation plans for GitHub Issues.
+Code Planner AI is a GitHub App that generates AI-driven implementation plans for GitHub Issues. It analyzes your codebase to provide detailed, actionable steps to tackle issues efficiently—whether it’s a **bug fix 🐞**, a **new feature** ✨, or a **system refactor** 🔧. By eliminating blank-page paralysis, Code Planner AI helps you start with confidence and stay focused on building. 
+
+We’re currently in an early Proof of Concept (PoC) launch! Install our GitHub App and **get 5 free implementation plan tokens to try it out.** Once you’ve used your tokens, we’d love your feedback—please share your thoughts through our [Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSeRw94saT95oVoFZBThf61tOL13QQYNa28rDRx4oamCeHxwGg/viewform?usp=sharing).
 
 ## 🚀 What is Code Planner AI?
 Code Planner AI is a GitHub App designed to assist developers by:
